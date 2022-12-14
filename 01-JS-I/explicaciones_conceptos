@@ -1,0 +1,24 @@
+Variables
+Tienes algo valioso y lo guardas para usarlo luego... la forma de guardarlo es "variable"
+También puedes tener variable CONSTANTE, es decir que no cambia
+
+Strings
+Palabras, texto, escritos
+Los ponemos entre comillas ""
+Todo lo que quieras escribir y ver en tu web
+
+Booleans
+Sólo 2 opciones (blanco/negro, si/no, ahora/nunca, verdad/mentira, etc)
+
+Undefined
+valor (numérico) errado
+
+Null
+vacío, no tiene nada adentro
+
+Operadores
+sumar, restar, dividir, multiplicar = +-*/
+
+== vs ===
+== compara valor... evalúa contenido
+=== compara tipo de variable... evalúa tipo de contenido
