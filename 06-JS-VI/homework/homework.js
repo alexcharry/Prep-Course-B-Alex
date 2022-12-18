@@ -41,6 +41,8 @@ function forEach(array, cb) {
   for (let i = 0; i < array.length; i++) {
     cb(array[i]);
   }
+  // return array.forEach((element) => cb (element));
+  // return cb(element)
 }
 
 function map(array, cb) {
@@ -59,7 +61,7 @@ function filter(array) {
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
   var newArray = array.filter(function(i){
-    return i[0] === "a"
+    return i[0] === "a" || i[0] === "A"
   })
   return newArray;
 }
